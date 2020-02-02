@@ -1,0 +1,1 @@
+# internal_redirect_htaccess
